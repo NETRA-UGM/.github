@@ -1,75 +1,54 @@
 
-<div align="center">
-
-# ☁️ NETRA
-
-### Cloud Computing & Infrastructure Management
-
-**Simplifying Cloud Infrastructure Through Intelligent Technology**
-
-NETRA is a cloud computing platform designed to simplify the management of virtual computing resources and cloud networking infrastructure.
+<table>
+  <tr>
+    <td width="120">
+      <img src="../assets/netra-logo.png" alt="NETRA Logo" width="110">
+    </td>
+    <td>
+      <h2>NETRA</h2>
+      <b>Cloud Computing Platform</b>
+      <br>
+      <i>Manage, Connect, and Simplify Your Cloud Infrastructure.</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
-</div>
+## ☁️ Profil NETRA
 
-## 🏢 About NETRA
+NETRA merupakan platform cloud computing yang dikembangkan untuk mempermudah proses pengelolaan infrastruktur komputasi dan jaringan virtual. NETRA menghadirkan layanan cloud yang lebih sederhana, terstruktur, dan mudah digunakan melalui antarmuka yang intuitif.
 
-NETRA merupakan platform cloud computing yang dirancang untuk mempermudah proses pembuatan, pengelolaan, dan pemantauan infrastruktur cloud melalui antarmuka yang intuitif.
+Platform ini mengintegrasikan layanan komputasi virtual, pengelolaan jaringan, dan AI Troubleshooter untuk membantu pengguna melakukan konfigurasi serta mengatasi permasalahan infrastruktur cloud.
 
-Platform ini mengintegrasikan layanan komputasi virtual dan manajemen jaringan dengan AI Troubleshooter untuk membantu pengguna memahami serta mengatasi kesalahan konfigurasi.
+## 💻 Fitur Utama NETRA
 
-## 🚀 Core Features
+NETRA memiliki dua layanan utama yang saling terintegrasi untuk mendukung pengelolaan infrastruktur cloud.
 
-### 🖥️ EC2-Lite — Compute Management
+- 🖥️ **EC2-Lite (Compute):** Membuat dan mengelola virtual machine, konfigurasi instance, resource komputasi, serta pengoperasian cloud workloads.
+- 🌐 **VPC-Lite (Core Networking):** Mengelola jaringan virtual melalui konfigurasi VPC, subnet, route table, internet gateway, dan visualisasi topologi jaringan.
+- 🤖 **AI Troubleshooter:** Membantu mendeteksi kesalahan konfigurasi dan memberikan rekomendasi perbaikan secara langsung pada EC2-Lite dan VPC-Lite.
 
-EC2-Lite menyediakan layanan pengelolaan virtual machine dan cloud workloads.
+## 🛠️ Tech Stack & Tools
 
-- Create & Configure Workloads
-- Start, Stop & Terminate Instances
-- Instance Type & Storage Configuration
-- Security Group Management
-- Integrated AI Troubleshooter
+Berikut adalah kategori teknologi dan tools yang digunakan dalam proses pengembangan NETRA:
 
-### 🌐 VPC-Lite — Core Networking
+- 🎨 **UI/UX Design:** Perancangan antarmuka, prototyping, dan user experience.
+- 💻 **Frontend Development:** Pengembangan antarmuka pengguna dan integrasi API.
+- ⚙️ **Backend Development:** Pengembangan layanan, API, dan pengelolaan data.
+- ☁️ **Cloud & Infrastructure:** Pengelolaan resource komputasi dan jaringan virtual.
 
-VPC-Lite membantu pengguna membangun dan mengelola jaringan virtual cloud.
+## 📁 Navigasi Repositori
 
-- Virtual Private Cloud Management
-- Subnet & CIDR Configuration
-- Route Table Management
-- Internet Gateway Configuration
-- Network Topology Visualization
-- Integrated AI Troubleshooter
+Untuk mempermudah kolaborasi dan pengembangan, berikut pembagian repositori dalam GitHub Organization NETRA:
 
-## 🧠 Intelligent Troubleshooting
-
-NETRA mengintegrasikan AI Troubleshooter secara langsung ke dalam EC2-Lite dan VPC-Lite untuk membantu pengguna:
-
-- Mendeteksi potensi kesalahan konfigurasi.
-- Mendapatkan rekomendasi pengaturan infrastruktur.
-- Memahami masalah konektivitas jaringan.
-- Meningkatkan efisiensi pengelolaan cloud.
-
-## 🛠️ Technology & Development
-
-NETRA dikembangkan dengan pendekatan modular untuk mendukung pengembangan layanan komputasi dan jaringan.
-
-Teknologi dan tools akan didokumentasikan berdasarkan implementasi masing-masing layanan.
-
-## 👥 Development Team
-
-NETRA dikembangkan melalui kolaborasi tim yang mencakup:
-
-- UI/UX & Product Design
-- Frontend Development
-- Backend Development
-- Cloud Infrastructure
+- 📌 **Frontend** — Pengembangan antarmuka dan interaksi pengguna.
+- 📌 **Backend** — Pengembangan API dan layanan cloud.
+- 📌 **Documentation** — PRD, dokumentasi teknis, dan panduan pengembangan.
 
 ---
 
 <div align="center">
-
-**NETRA — Simplifying Cloud, Empowering Innovation.**
-
+  <i>Building a simpler and more intelligent cloud computing experience with NETRA.</i>
 </div>
+
