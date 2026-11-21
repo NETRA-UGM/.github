@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180" align="center">
-      <img src="https://raw.githubusercontent.com/NETRA-UGM/.github/main/Frame%202147220734.png" width="160" alt="NETRA Logo">
+      <img src="https://raw.githubusercontent.com/NETRA-UGM/.github/main/netra-logo.png" width="160" alt="NETRA Logo">
     </td>
     <td>
       <h2>NETRA</h2>
