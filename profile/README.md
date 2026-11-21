@@ -1,13 +1,11 @@
-
 <table>
   <tr>
-    <td width="120">
-      <img src="../assets/netra-logo.png" alt="NETRA Logo" width="110">
+    <td width="180" align="center">
+      <img src="https://raw.githubusercontent.com/NETRA-UGM/.github/main/Frame%202147220734.png" width="160" alt="NETRA Logo">
     </td>
     <td>
       <h2>NETRA</h2>
-      <b>Cloud Computing Platform</b>
-      <br>
+      <b>Cloud Computing Platform</b><br>
       <i>Manage, Connect, and Simplify Your Cloud Infrastructure.</i>
     </td>
   </tr>
